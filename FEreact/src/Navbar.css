@@ -1,0 +1,17 @@
+.bg-blue-500 {
+  background-color: #0053a0;
+}
+
+.text-white {
+  color: #ffffff;
+}
+
+.font-bold {
+  font-weight: bold;
+}
+
+.text-xl {
+  font-size: 1.25rem; /* Adjust as needed */
+}
+
+/* Add any other CSS classes you need */
