@@ -1,4 +1,4 @@
-import './components/Navbar.css';
+import './Navbar.css';
 
 const Navbar = () => {
   return (
@@ -25,10 +25,10 @@ const Navbar = () => {
             </button>
           </div>
           <div className="hidden md:flex space-x-4">
-            <a href="#" className="text-white">Home</a>
-            <a href="#" className="text-white">About</a>
-            <a href="#" className="text-white">Services</a>
-            <a href="#" className="text-white">Contact</a>
+            <a href="#" className="text-white underline-hover">Home</a>
+            <a href="#" className="text-white underline-hover">About</a>
+            <a href="#" className="text-white underline-hover">Services</a>
+            <a href="#" className="text-white underline-hover">Contact</a>
           </div>
         </div>
         <div className="md:hidden bg-black p-4">
